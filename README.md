@@ -28,7 +28,7 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
 ## 🛠️ Stack que uso no dia a dia
 
 🛠️
-<p<align="left">
+
   <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
