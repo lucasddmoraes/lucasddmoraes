@@ -41,10 +41,10 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
 
 ## 🌴 Fora do trabalho
 
-⚽️ Torcedor do **FC Porto** e do **AC Milan**
-🏎️ Acompanho **Fórmula 1**, na torcida pela **Ferrari**
-🏂 Snowboard no inverno
-📚 Gosto de escrever e ler nas horas livres
+⚽️ Torcedor do **FC Porto** e do **AC Milan**  
+🏎️ Acompanho **Fórmula 1**, na torcida pela **Ferrari**  
+🏂 Snowboard no inverno  
+📚 Gosto de escrever e ler nas horas livres  
 
 ## 📫 Como falar comigo
 
