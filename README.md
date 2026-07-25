@@ -60,9 +60,5 @@ Dicas de personalização:
 2. As estatísticas abaixo só funcionam se você trocar SEU_USUARIO pelo seu usuário.
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
 ---
 <p align="center"><i>Obrigado por passar por aqui. Se quiser trocar uma ideia sobre M&A, IA ou educação, os DMs estão abertos.</i></p>
