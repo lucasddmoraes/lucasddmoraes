@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Founder+%40+Resultz;Construindo+a+Quattro+Venti;M%26A+em+Educa%C3%A7%C3%A3o+(Brasil+%2B+Portugal);Vibe+coding+e+IA+aplicada" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitantes&color=2E86C1&style=flat" alt="Contador de visitas" />
-</p>
 
 ## 🧭 Sobre mim
 
@@ -26,9 +23,8 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
 | Projeto | Descrição |
 |---|---|
 | 🏛️ Quattro Venti | M&A boutique para educação (Brasil + Portugal) |
-| 🕵️ Alfred AI Solutions | Alternativa europeia ao Palantir, GDPR compliant |
+| 🕵️ Alfred AI Solutions | Alternativa europeia de IA Empresarial, GDPR compliant |
 | 🧑‍🏫 Let's Vibe | Material didático de IA e vibe coding para colégios |
-| 🎓 AI Bootcamp | Intensivo de 4 dias para universitários, com o Centro Universitário Sumaré |
 | 📈 Resultz | Growth e tracking server side para instituições de ensino |
 
 ## 🛠️ Stack que uso no dia a dia
@@ -45,20 +41,16 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
 
 ## ⚽ 🏎️ Fora do trabalho
 
-- Torcedor do **FC Porto** e do **AC Milan**
-- Acompanho **Fórmula 1**, na torcida pelo **Leclerc / Ferrari**
-- Snowboard nas horas vagas
-- Golf, quando o tempo ajuda
-- Gosto de escrever e ler nas horas livres
+- ⚽️ Torcedor do **FC Porto** e do **AC Milan**
+- 🏎️Acompanho **Fórmula 1**, na torcida pela **Ferrari**
+- 🏂 Snowboard no inverno
+- 📚 Gosto de escrever e ler nas horas livres
 
 ## 📫 Como falar comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasddmoraes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://resultzads.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Resultz-2E86C1?style=flat&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
