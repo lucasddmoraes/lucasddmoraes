@@ -1,15 +1,15 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Founder+%40+Resultz;Construindo+a+Quattro+Venti;M%26A+em+Educa%C3%A7%C3%A3o+(Brasil+%2B+Portugal);Vibe+coding+e+IA+aplicada" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Founder+@+Resultz;Senior+partnerd+@+Quattro+Venti;M%26A+em+Educa%C3%A7%C3%A3o+(Brasil+%2B+Portugal);Vibe+coding+e+IA+aplicada" alt="Typing SVG" />
 </p>
 
 
 ## 🧭 Sobre mim
 
-Sou fundador da **Resultz**, agência de marketing focada em captação de alunos para escolas, universidades e cursos de idiomas no Brasil e em Portugal. Depois de anos no operacional, agora foco em estratégia, inovação e IA, deixando o dia a dia com um CEO dedicado.
+Sou fundador da **Resultz**, agência de marketing focada em captação de alunos para escolas, universidades e cursos de idiomas no Brasil e em Portugal. Depois de anos deixo o operacional, e agora foco em estratégia, inovação e IA.
 
-Também estou construindo a **Quattro Venti**, uma butique de M&A para o setor educacional no corredor Brasil e Portugal.
+me tornei socio da **Quattro Venti**, uma butique de M&A para o setor educacional no corredor Brasil e Portugal.
 
 Baseado no Porto 🇵🇹, com trânsito frequente entre Portugal e Brasil 🇧🇷.
 
