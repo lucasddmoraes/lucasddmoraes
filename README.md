@@ -9,7 +9,7 @@
 
 Sou fundador da **Resultz**, agência de marketing focada em captação de alunos para escolas, universidades e cursos de idiomas no Brasil e em Portugal. Depois de anos deixo o operacional, e agora foco em estratégia, inovação e IA.
 
-me tornei socio da **Quattro Venti**, uma butique de M&A para o setor educacional no corredor Brasil e Portugal.
+Me tornei socio da **Quattro Venti**, uma butique de M&A para o setor educacional no corredor Brasil e Portugal.
 
 Baseado no Porto 🇵🇹, com trânsito frequente entre Portugal e Brasil 🇧🇷.
 
@@ -39,12 +39,12 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 </p>
 
-## ⚽ 🏎️ Fora do trabalho
+## 🌴 Fora do trabalho
 
-- ⚽️ Torcedor do **FC Porto** e do **AC Milan**
-- 🏎️Acompanho **Fórmula 1**, na torcida pela **Ferrari**
-- 🏂 Snowboard no inverno
-- 📚 Gosto de escrever e ler nas horas livres
+⚽️ Torcedor do **FC Porto** e do **AC Milan**
+🏎️ Acompanho **Fórmula 1**, na torcida pela **Ferrari**
+🏂 Snowboard no inverno
+📚 Gosto de escrever e ler nas horas livres
 
 ## 📫 Como falar comigo
 
