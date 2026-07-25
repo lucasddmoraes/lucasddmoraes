@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Founder+@+Resultz;Senior+partner+@+Quattro+Venti;M%26A+em+Educa%C3%A7%C3%A3o+(Brasil+%2B+Portugal);Vibe+coding+e+IA+aplicada" alt="Typing SVG" />
