@@ -27,8 +27,7 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
 
 ## 🛠️ Stack que uso no dia a dia
 
-🛠️
-
+<p align="left">
   <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
@@ -41,7 +40,8 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  
+</p>
+
 ## 🌴 Fora do trabalho
 
 ⚽️ Torcedor do **AC Milan**  
