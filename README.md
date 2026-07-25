@@ -9,9 +9,7 @@
 
 Sou fundador da **Resultz**, agência de marketing focada em captação de alunos para escolas, universidades e cursos de idiomas no Brasil e em Portugal. Depois de anos deixo o operacional, e agora foco em estratégia, inovação e IA.
 
-Me tornei socio da **Quattro Venti**, uma butique de M&A para o setor educacional no corredor Brasil e Portugal.
-
-Baseado no Porto 🇵🇹, com trânsito frequente entre Portugal e Brasil 🇧🇷.
+Me tornei sócio da **Quattro Venti**, uma butique de M&A para o setor educacional.
 
 ```txt
 > whoami
@@ -22,10 +20,10 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
 
 | Projeto | Descrição |
 |---|---|
-| 🏛️ Quattro Venti | M&A boutique para educação (Brasil + Portugal) |
-| 🕵️ Alfred AI Solutions | Alternativa europeia de IA Empresarial, GDPR compliant |
+| 🏛️ Quattro Venti | M&A boutique para educação |
+| 🕵️ Alfred AI | Alternativa europeia de IA Empresarial, GDPR compliant |
 | 🧑‍🏫 Let's Vibe | Material didático de IA e vibe coding para colégios |
-| 📈 Resultz | Growth e tracking server side para instituições de ensino |
+| 📈 Resultz | Growth e marketing para instituições de ensino |
 
 ## 🛠️ Stack que uso no dia a dia
 
@@ -41,7 +39,7 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
 
 ## 🌴 Fora do trabalho
 
-⚽️ Torcedor do **FC Porto** e do **AC Milan**  
+⚽️ Torcedor do **AC Milan**  
 🏎️ Acompanho **Fórmula 1**, na torcida pela **Ferrari**  
 🏂 Snowboard no inverno  
 📚 Gosto de escrever e ler nas horas livres  
