@@ -20,6 +20,7 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
 
 | Projeto | Descrição |
 |---|---|
+| 🚀 Matricula+ | MCRM Educacional |
 | 🏛️ Quattro Venti | M&A boutique para educação |
 | 🕵️ Alfred AI | Alternativa europeia de IA Empresarial, GDPR compliant |
 | 🧑‍🏫 Let's Vibe | Material didático de IA e vibe coding para colégios |
