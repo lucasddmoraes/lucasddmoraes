@@ -1,27 +1,26 @@
 <h1 align="center">Olá 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Founder+@+Resultz;Senior+partner+@+Quattro+Venti;M%26A+em+Educa%C3%A7%C3%A3o+(Brasil+%2B+Portugal);Vibe+coding+e+IA+aplicada" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Founder+@+Resultz;Founder+@+matricula%2B;CRM+para+capta%C3%A7%C3%A3o+de+alunos;Vibe+coding+e+IA+aplicada" alt="Typing SVG" />
 </p>
 
 
 ## 🧭 Sobre mim
 
-Sou fundador da **Resultz**, agência de marketing focada em captação de alunos para escolas, universidades e cursos de idiomas no Brasil e em Portugal. Depois de anos deixo o operacional, e agora foco em estratégia, inovação e IA.
+Sou fundador da **Resultz**, agência de marketing focada em captação de alunos para escolas, universidades e cursos de idiomas no Brasil e em Portugal. Depois de anos no operacional, agora foco em estratégia, inovação e IA.
 
-Me tornei sócio da **Quattro Venti**, uma butique de M&A para o setor educacional.
+Também estou construindo o **[matricula+](https://matriculamais.com)**, um CRM feito para instituições de ensino responderem mais rápido e transformarem mais contatos em matrículas.
 
 ```txt
 > whoami
-Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócios.
+Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a negócios.
 ```
 
 ## 🚀 No que estou mexendo agora
 
 | Projeto | Descrição |
 |---|---|
-| 🚀 Matricula+ | CRM Educacional |
-| 🏛️ Quattro Venti | M&A boutique para educação |
+| 🚀 matricula+ | CRM educacional para captação de matrículas |
 | 🕵️ Alfred AI | Alternativa europeia de IA Empresarial, GDPR compliant |
 | 🧑‍🏫 Let's Vibe | Material didático de IA e vibe coding para colégios |
 | 📈 Resultz | Growth e marketing para instituições de ensino |
@@ -58,11 +57,5 @@ Marketing nerd, dealmaker em treinamento, aluno eterno de IA aplicada a negócio
   </a>
 </p>
 
-<!--
-Dicas de personalização:
-1. Troque "SEU_USUARIO" no contador de visitas pelo seu usuário real do GitHub.
-2. As estatísticas abaixo só funcionam se você trocar SEU_USUARIO pelo seu usuário.
--->
-
 ---
-<p align="center"><i>Obrigado por passar por aqui. Se quiser trocar uma ideia sobre M&A, IA ou educação, os DMs estão abertos.</i></p>
+<p align="center"><i>Obrigado por passar por aqui. Se quiser trocar uma ideia sobre captação de alunos, IA ou educação, os DMs estão abertos.</i></p>
