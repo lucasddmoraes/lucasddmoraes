@@ -54,7 +54,6 @@ Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a n
 <img src="https://img.shields.io/badge/-MariaDB_Foundation-1F305F?style=flat&logo=mariadbfoundation&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/-Proton-6D4AFF?style=flat&logo=proton&logoColor=white" />
-<img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenSSL-721412?style=flat&logo=openssl&logoColor=white" />
 <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
@@ -62,7 +61,6 @@ Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a n
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/-uBlock_Origin-800000?style=flat&logo=ublockorigin&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zapier-FF4F00?style=flat&logo=zapier&logoColor=white" />
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/-Woo-873EFF?style=flat&logo=woo&logoColor=white" />
 <img src="https://img.shields.io/badge/-Fido_Alliance-FFBF3B?style=flat&logo=fidoalliance&logoColor=black" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -73,10 +71,7 @@ Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a n
 <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white" />
 <img src="https://img.shields.io/badge/-AdBlock-F40D12?style=flat&logo=adblock&logoColor=white" />
-<img src="https://img.shields.io/badge/-Meta-0467DF?style=flat&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
