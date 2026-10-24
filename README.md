@@ -34,33 +34,24 @@ Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a n
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white" />
   <img src="https://img.shields.io/badge/-Meta%20Ads-1877F2?style=flat&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-curl-073551?style=flat&logo=curl&logoColor=white" />
 <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" />
 <img src="https://img.shields.io/badge/-Z.ai-2D2D2D?style=flat&logo=zdotai&logoColor=white" />
 <img src="https://img.shields.io/badge/-DeepMind-4285F4?style=flat&logo=deepmind&logoColor=white" />
 <img src="https://img.shields.io/badge/-Resend-000000?style=flat&logo=resend&logoColor=white" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white" />
 <img src="https://img.shields.io/badge/-Mullvad-294D73?style=flat&logo=mullvad&logoColor=white" />
 <img src="https://img.shields.io/badge/-Apple-000000?style=flat&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white" />
 <img src="https://img.shields.io/badge/-Anthropic-191919?style=flat&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=brave&logoColor=white" />
 <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/-MariaDB_Foundation-1F305F?style=flat&logo=mariadbfoundation&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/-Proton-6D4AFF?style=flat&logo=proton&logoColor=white" />
 <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
@@ -69,7 +60,6 @@ Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a n
 <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" />
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F03C2E?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-uBlock_Origin-800000?style=flat&logo=ublockorigin&logoColor=white" />
 <img src="https://img.shields.io/badge/-Zapier-FF4F00?style=flat&logo=zapier&logoColor=white" />
 <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
@@ -77,8 +67,6 @@ Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a n
 <img src="https://img.shields.io/badge/-Fido_Alliance-FFBF3B?style=flat&logo=fidoalliance&logoColor=black" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=elementor&logoColor=white" />
-<img src="https://img.shields.io/badge/-Medusa-000000?style=flat&logo=medusa&logoColor=white" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/-App_Store-0D96F6?style=flat&logo=appstore&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tor_Project-7D4698?style=flat&logo=torproject&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vultr-007BFC?style=flat&logo=vultr&logoColor=white" />
@@ -87,7 +75,6 @@ Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a n
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/-Postmates-FFDF18?style=flat&logo=postmates&logoColor=black" />
 <img src="https://img.shields.io/badge/-AdBlock-F40D12?style=flat&logo=adblock&logoColor=white" />
 <img src="https://img.shields.io/badge/-Meta-0467DF?style=flat&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
@@ -95,9 +82,7 @@ Marketing nerd, fundador de SaaS em treinamento, aluno eterno de IA aplicada a n
 <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/-Let%27s_Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
-<img src="https://img.shields.io/badge/-F1-E10600?style=flat&logo=f1&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tesla-CC0000?style=flat&logo=tesla&logoColor=white" />
+
 </p>
 
 ## 🌴 Fora do trabalho
